@@ -1,2 +1,4 @@
 # Demo Test Git
-Test project for lerning Git with Python and PyCharm.
+Project for learning Git with Python and PyCharm from:
+
+![alt text](https://con.jaktestowac.pl/wp-content/uploads/brand/jaktestowac_small.png)
