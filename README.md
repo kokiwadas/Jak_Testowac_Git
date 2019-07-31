@@ -9,3 +9,6 @@ Project for learning Git with support software.
 - PyCharm 2019.2
 - Python 3.7
 - Windows 10 Pro
+
+##External Platform
+[GitHub](https://github.com) - repository hosting
