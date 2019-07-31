@@ -5,7 +5,7 @@ Project for learning Git with support software.
 [![alt text](https://con.jaktestowac.pl/wp-content/uploads/brand/jaktestowac_small.png)](https://jaktestowac.pl/git-dla-testerow)
 
 ##Technologies:
-- Git v2.20
-- PyCharm v2018.3.5
-- Python v3.7
-- Windows v10 Pro
+- Git 2.20
+- PyCharm 2019.2
+- Python 3.7
+- Windows 10 Pro
